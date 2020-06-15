@@ -4,8 +4,8 @@ layout: default
 
 I am an assistant research engineer at [Child Mind Institute](https://childmind.org/). My research interests focus on fMRI/EEG analysis, deep learning in visual science, brain computer interaction, and artificial general intelligence.
 
-[Google Scholar](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)
-[GitHub](https://github.com/SucyLi)
+[[Google Scholar](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)] 
+[[GitHub](https://github.com/SucyLi)]
 
 # fMRI Software Development
 
@@ -13,9 +13,11 @@ At Child Mind Institute, I work on the [Configurable Pipeline for the Analysis o
 
 # fMRI Research
 
-## Monkey Tissue Segmention using U-Net
+### Cross-Pipeline Reproducibility
 
-## Connectivity-based Shared Response Model
+### Monkey Tissue Segmention using U-Net
+
+### Connectivity-based Shared Response Model
 
 # Deep Learning in Visual Science
 
