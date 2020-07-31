@@ -11,6 +11,8 @@ I am an assistant research engineer at [Child Mind Institute](https://childmind.
 
 # Software Development
 
+### C-PAC
+
 At the Computational Imaging Lab of Child Mind Institute, I am developing the software [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), including its pipeline configuration [GUI](https://github.com/FCP-INDI/C-PAC_GUI) and [user documentation](https://github.com/FCP-INDI/fcp-indi.github.com).
 
 
@@ -30,20 +32,20 @@ Supervised by Ting Xu, I am exploring shared response model for behavior and mov
 
 ### Deep Learning in Visual Science
 
-I worked as a research assistant at [the Hood Visual Science Lab](https://hoodvisualscience.psychology.columbia.edu/) of Columbia University, where I applied deep learning models to detect glaucoma and achieved decent performance. Furthermore, we proposed multiple strategies to enhance model generalizability across different datasets and evaluated the impacts of reference standards. Besides, we designed a MATLAB-based deep learning toolbox [**Ollie**](https://github.com/SucyLi/Ollie) for doctors and patients to identify glaucoma automatically, which won the first prize at COLUMBIA HACKATHON 2019.
+I worked as a research assistant at [the Hood Visual Science Lab](https://hoodvisualscience.psychology.columbia.edu/) of Columbia University, where I applied deep learning models to detect glaucoma and achieved decent performance. Furthermore, we proposed multiple strategies to enhance model generalizability across different datasets and evaluated the impacts of reference standards. In addition, we designed a MATLAB-based deep learning toolbox [Ollie](https://github.com/SucyLi/Ollie) to identify glaucoma, which won the first prize at COLUMBIA HACKATHON 2019.
 
 ### Real-time EEG Classification
 
-Collaborating with [Xiaofu He](https://scholar.google.com/citations?hl=en&user=QJnxJFIAAAAJ&view_op=list_works&sortby=pubdate) at New York State Psychiatry Institute, we tried to develop a real-time EEG feedback system where participants can receive prompt feedback classified by neural networks while performing tasks during EEG recording. We have made progress on designing a promising deep learning model for this project - [a cascade Convolutional Neural Network – Recurrent Neural Network (CNN-RNN)](/assets/poster/NYSDS19_YF.pdf). My MCIT classmates and I built a [simulation system](https://github.com/SucyLi/Neural-Feedback-System) as a class project, which can serve as the front end for this system.
+Collaborating with [Xiaofu He](https://scholar.google.com/citations?hl=en&user=QJnxJFIAAAAJ&view_op=list_works&sortby=pubdate) at New York State Psychiatry Institute, we tried to develop a real-time EEG feedback system where participants can receive prompt feedback classified by neural networks while performing tasks during EEG recording. We have made progress on designing a promising deep learning model - [a cascade Convolutional Neural Network – Recurrent Neural Network (CNN-RNN)](/assets/poster/NYSDS19_YF.pdf). My MCIT classmates and I built a [simulation system](https://github.com/SucyLi/Neural-Feedback-System) as a class project, which can serve as the front end for this system.
 
 
 # Publications
 
-**Moving Functional MRI Beyond Pipeline-Related Variation in Preprocessing.** (Paper in preparation)
+**Moving Functional MRI Beyond Pipeline-Related Variation in Preprocessing.** (paper in preparation)
 
-**Strategies to Improve Convolutional Neural Network Generalizability for Glaucoma Detection from OCT Scans.** (Paper in preparation)
+**Strategies to Improve Convolutional Neural Network Generalizability for Glaucoma Detection from OCT Scans.** (paper in preparation)
 
-**Li, X.,** Cho, J. W., Milham, M. P. & Xu, T. (2020). **Improving brain-behavior prediction using individual-specific components from connectivity-based shared response model.** Resting-State Brain Connectivity Conference 2020. (Abstract in review)
+**Li, X.,** Cho, J. W., Milham, M. P. & Xu, T. (2020). **Improving brain-behavior prediction using individual-specific components from connectivity-based shared response model.** Resting-State Brain Connectivity Conference 2020. (abstract in review)
 
 **Li, X.,** Giavasis, S., Jin, H., Ai, L., Sólon, A., Adebimpe, A., Franco, A. R., Poldrack, R. A., Vogelstein, J. T., Xu, T., Satterthwaite, T., Craddock, R. C., & Milham, M. P. (2020). **Evaluating and Improving Cross-Pipeline Reproducibility in Functional Connectomics: A Case Study.** 2020 Organization for Human Brain Mapping (OHBM) Annual Meeting. [[poster](/assets/poster/OHBM20_XL.pdf)]
 
