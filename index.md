@@ -24,7 +24,7 @@ As part of C-PAC development, we evaluated preprocessing methods across differen
 
 ### Monkey Brain Extraction/Tissue Segmention using U-Net
 
-Supervised by [Ting Xu](https://scholar.google.com/citations?hl=en&user=Ks7ywnAAAAAJ&view_op=list_works&sortby=pubdate) at Child Mind Institute, I am developing a deep learning model U-Net to segment tissues with macaque structure MRI data. Besides, I also contributed to [the PRIME-DE brain extraction project](https://github.com/TingsterX/PRIME-DE/tree/master/BrainExtraction).
+Supervised by [Ting Xu](https://scholar.google.com/citations?hl=en&user=Ks7ywnAAAAAJ&view_op=list_works&sortby=pubdate) at Child Mind Institute, I am developing a deep learning model U-Net to segment tissues with macaque structure MRI data. Besides, I also contributed to the [PRIME-DE brain extraction](https://github.com/TingsterX/PRIME-DE/tree/master/BrainExtraction) project.
 
 ### Connectivity-based Shared Response Model
 
