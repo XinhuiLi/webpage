@@ -36,24 +36,31 @@ I worked as a research assistant at [the Hood Visual Science Lab](https://hoodvi
 
 ### Real-time EEG Classification
 
-Collaborating with [Xiaofu He](https://scholar.google.com/citations?hl=en&user=QJnxJFIAAAAJ&view_op=list_works&sortby=pubdate) at New York State Psychiatry Institute, we tried to develop a real-time EEG feedback system where participants can receive prompt feedback classified by neural networks while performing tasks during EEG recording. We have made progress on designing a promising deep learning model - [a cascade Convolutional Neural Network – Recurrent Neural Network (CNN-RNN)](/assets/poster/NYSDS19_YF.pdf). My MCIT classmates and I built a [simulation system](https://github.com/SucyLi/Neural-Feedback-System) as a class project, which can serve as the front end for this system.
+Collaborating with [Xiaofu He](https://scholar.google.com/citations?hl=en&user=QJnxJFIAAAAJ&view_op=list_works&sortby=pubdate) at New York State Psychiatry Institute, we plan to develop a real-time EEG feedback system where participants can receive prompt feedback classified by neural networks while performing tasks during EEG recording. We have made progress on designing a deep learning model - [a cascade Convolutional Neural Network – Recurrent Neural Network (CNN-RNN)](/assets/poster/NYSDS19_YF.pdf). I built a [simulation system](https://github.com/SucyLi/Neural-Feedback-System) with my classmates, which can serve as the front end for this system.
 
 
 # Publications
 
-**Moving Functional MRI Beyond Pipeline-Related Variation in Preprocessing.** (paper in preparation)
+**U-Net Model for Brain Extraction - Training in Humans and Transferring to Non-human Primates.** (in preparation)
 
-**Strategies to Improve Convolutional Neural Network Generalizability for Glaucoma Detection from OCT Scans.** (paper in preparation)
+**Moving Functional MRI Beyond Pipeline-Related Variation in Preprocessing.** (in preparation)
 
-**Li, X.,** Cho, J. W., Milham, M. P. & Xu, T. (2020). **Improving brain-behavior prediction using individual-specific components from connectivity-based shared response model.** Resting-State Brain Connectivity Conference 2020. (abstract in review)
+**Deep Learning for Motor Imagery Classification with EEG Data.** (in preparation)
+
+Thakoor, K. A., **Li, X.,** Tsamis, E., Zemborain, Z. Z., Moraes, C. G. D., Sajda, P., & Hood, D. C. (2020). **Strategies to Improve Convolutional Neural Network Generalizability for Glaucoma Detection from OCT Scans.** Translational Vision Science and Technology. (in review)
+
+Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. (2019). **Enhancing the Accuracy of Glaucoma Detection from OCT Probability Maps using Convolutional Neural Networks.** 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2036–2040. https://doi.org/10.1109/EMBC.2019.8856899 [[paper](https://doi.org/10.1109/EMBC.2019.8856899)]
+
+
+# Conference Posters
+
+**Li, X.,** Cho, J. W., Milham, M. P. & Xu, T. (2020). **Improving brain-behavior prediction using individual-specific components from connectivity-based shared response model.** Resting-State Brain Connectivity Conference 2020. (in review)
 
 **Li, X.,** Giavasis, S., Jin, H., Ai, L., Sólon, A., Adebimpe, A., Franco, A. R., Poldrack, R. A., Vogelstein, J. T., Xu, T., Satterthwaite, T., Craddock, R. C., & Milham, M. P. (2020). **Evaluating and Improving Cross-Pipeline Reproducibility in Functional Connectomics: A Case Study.** 2020 Organization for Human Brain Mapping (OHBM) Annual Meeting. [[poster](/assets/poster/OHBM20_XL.pdf)]
 
 Jin, H., Giavasis, S., **Li, X.,** Sólon, A., Ai, L., Franco, A. R., Ramirez, J. S. B., Wang, X., Gozzi, A., Pagani, M., Fox, A., Messinger, A., Fair, D. A., Keilholz, S., Russ, B., Xu, T., Craddock, R. C., & Milham, M. P. (2020). **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** 2020 Organization for Human Brain Mapping (OHBM) Annual Meeting. [[poster](/assets/poster/OHBM20_HJ.pdf)]
 
 **Li, X.,** Tsamis, E., Thakoor, K. A., Zemborain, Z., Moraes, C. G. D., & Hood, D. C. (2020). **Evaluating the transferability of deep learning models that distinguish glaucomatous from non-glaucomatous OCT circumpapillary disc scans.** Investigative Ophthalmology & Visual Science, 61(7), 4548–4548. [[abstract](https://iovs.arvojournals.org/article.aspx?articleid=2769404)]
-
-Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. (2019). **Enhancing the Accuracy of Glaucoma Detection from OCT Probability Maps using Convolutional Neural Networks.** 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2036–2040. https://doi.org/10.1109/EMBC.2019.8856899 [[paper](https://doi.org/10.1109/EMBC.2019.8856899)]
 
 Feng, Y., Chung, E., **Li, X.,** Cycowicz, Y. M., & He, X. (2019). **Deep Learning for Motor Imagery Classification based on EEG Data.** New York Scientific Data Summit 2019. [[poster](/assets/poster/NYSDS19_YF.pdf)]
 
