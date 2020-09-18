@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am an assistant research engineer at [Child Mind Institute](https://childmind.org/). My research interests focus on fMRI/EEG analysis, brain computer interaction, deep learning, and artificial general intelligence.
+I am an assistant research engineer at [Child Mind Institute](https://childmind.org/) with a background in biomedical engineering and computer science. My research interests focus on fMRI/EEG analysis, brain machine interaction and deep learning for medical imaging.
 
 [[Google Scholar](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)] 
 [[GitHub](https://github.com/SucyLi)]
@@ -13,7 +13,7 @@ I am an assistant research engineer at [Child Mind Institute](https://childmind.
 
 ### C-PAC
 
-At the Computational Imaging Lab of Child Mind Institute, I am developing the software [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), including its pipeline configuration [GUI](https://github.com/FCP-INDI/C-PAC_GUI) and [user documentation](https://github.com/FCP-INDI/fcp-indi.github.com).
+At the Computational Neuroimaging Lab of Child Mind Institute, I am developing the software [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), including its pipeline configuration [GUI](https://github.com/FCP-INDI/C-PAC_GUI) and [user documentation](https://github.com/FCP-INDI/fcp-indi.github.com).
 
 
 # Research
@@ -56,9 +56,9 @@ Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. (2019). **Enhan
 
 **Li, X.,** Cho, J. W., Milham, M. P. & Xu, T. (2020). **Improving brain-behavior prediction using individual-specific components from connectivity-based shared response model.** Resting-State Brain Connectivity Conference 2020. (in review)
 
-**Li, X.,** Giavasis, S., Jin, H., Ai, L., Sólon, A., Adebimpe, A., Franco, A. R., Poldrack, R. A., Vogelstein, J. T., Xu, T., Satterthwaite, T., Craddock, R. C., & Milham, M. P. (2020). **Evaluating and Improving Cross-Pipeline Reproducibility in Functional Connectomics: A Case Study.** 2020 Organization for Human Brain Mapping (OHBM) Annual Meeting. [[poster](/assets/poster/OHBM20_XL.pdf)]
+**Li, X.,** Giavasis, S., Jin, H., Ai, L., Sólon, A., Adebimpe, A., Franco, A. R., Poldrack, R. A., Vogelstein, J. T., Xu, T., Satterthwaite, T., Craddock, R. C., & Milham, M. P. (2020). **Evaluating and Improving Cross-Pipeline Reproducibility in Functional Connectomics: A Case Study.** 2020 Organization for Human Brain Mapping Annual Meeting. [[poster](/assets/poster/OHBM20_XL.pdf)]
 
-Jin, H., Giavasis, S., **Li, X.,** Sólon, A., Ai, L., Franco, A. R., Ramirez, J. S. B., Wang, X., Gozzi, A., Pagani, M., Fox, A., Messinger, A., Fair, D. A., Keilholz, S., Russ, B., Xu, T., Craddock, R. C., & Milham, M. P. (2020). **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** 2020 Organization for Human Brain Mapping (OHBM) Annual Meeting. [[poster](/assets/poster/OHBM20_HJ.pdf)]
+Jin, H., Giavasis, S., **Li, X.,** Sólon, A., Ai, L., Franco, A. R., Ramirez, J. S. B., Wang, X., Gozzi, A., Pagani, M., Fox, A., Messinger, A., Fair, D. A., Keilholz, S., Russ, B., Xu, T., Craddock, R. C., & Milham, M. P. (2020). **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** 2020 Organization for Human Brain Mapping Annual Meeting. [[poster](/assets/poster/OHBM20_HJ.pdf)]
 
 **Li, X.,** Tsamis, E., Thakoor, K. A., Zemborain, Z., Moraes, C. G. D., & Hood, D. C. (2020). **Evaluating the transferability of deep learning models that distinguish glaucomatous from non-glaucomatous OCT circumpapillary disc scans.** Investigative Ophthalmology & Visual Science, 61(7), 4548–4548. [[abstract](https://iovs.arvojournals.org/article.aspx?articleid=2769404)]
 
