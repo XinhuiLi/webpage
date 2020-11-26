@@ -41,26 +41,28 @@ Collaborating with [Xiaofu He](https://scholar.google.com/citations?hl=en&user=Q
 
 # Publications
 
-Thakoor, K. A., **Li, X.,** Tsamis, E., Zemborain, Z. Z., Moraes, C. G. D., Sajda, P., & Hood, D. C. (2020). **Strategies to Improve Convolutional Neural Network Generalizability for Glaucoma Detection from OCT Scans.** Translational Vision Science and Technology. (in review)
+Wang, X., Li, X., Cho, J. W., Russ, B., Rajamani, N., Omelchenko, A., Ai, L., Korchmaros, A., Garcia, P., Wang, Z., Kalin, N. H., Schroeder, C. E., Craddock, C., Fox, A. S., Evans, A., Messinger, A., Milham, M. P., & Xu, T. (2020). **U-Net Model for Brain Extraction on Non-human Primates.** NeuroImage. (under review) [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.17.385898v1)]
+
+Thakoor, K. A., **Li, X.,** Tsamis, E., Zemborain, Z. Z., Moraes, C. G. D., Sajda, P., & Hood, D. C. (2020). **Strategies to Improve Convolutional Neural Network Generalizability for Glaucoma Detection from OCT Scans.** Translational Vision Science and Technology. (under review)
 
 Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. (2019). **Enhancing the Accuracy of Glaucoma Detection from OCT Probability Maps using Convolutional Neural Networks.** 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2036–2040. https://doi.org/10.1109/EMBC.2019.8856899 [[paper](https://doi.org/10.1109/EMBC.2019.8856899)]
 
-**U-Net Model for Brain Extraction - Training in Humans and Transferring to Non-human Primates.** (in preparation)
+**Moving Functional MRI Beyond Pipeline-Related Variation in Preprocessing.** (in prep)
 
-**Moving Functional MRI Beyond Pipeline-Related Variation in Preprocessing.** (in preparation)
-
-**Deep Learning for Motor Imagery Classification with EEG Data.** (in preparation)
+**Deep Learning for Motor Imagery Classification with EEG Data.** (in prep)
 
 
 # Conference Posters
 
-**Li, X.,** Cho, J. W., Milham, M. P. & Xu, T. (2020). **Improving brain-behavior prediction using individual-specific components from connectivity-based shared response model.** Resting-State Brain Connectivity Conference 2020. (in review)
+**Li, X.,** Cho, J. W., Milham, M. P. & Xu, T. (2020). **Improving brain-behavior prediction using individual-specific components from connectivity-based shared response model.** Resting-State Brain Connectivity Conference 2020. [abstract]
 
 **Li, X.,** Giavasis, S., Jin, H., Ai, L., Sólon, A., Adebimpe, A., Franco, A. R., Poldrack, R. A., Vogelstein, J. T., Xu, T., Satterthwaite, T., Craddock, R. C., & Milham, M. P. (2020). **Evaluating and Improving Cross-Pipeline Reproducibility in Functional Connectomics: A Case Study.** 2020 Organization for Human Brain Mapping Annual Meeting. [[poster](/assets/poster/OHBM20_XL.pdf)]
 
 Jin, H., Giavasis, S., **Li, X.,** Sólon, A., Ai, L., Franco, A. R., Ramirez, J. S. B., Wang, X., Gozzi, A., Pagani, M., Fox, A., Messinger, A., Fair, D. A., Keilholz, S., Russ, B., Xu, T., Craddock, R. C., & Milham, M. P. (2020). **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** 2020 Organization for Human Brain Mapping Annual Meeting. [[poster](/assets/poster/OHBM20_HJ.pdf)]
 
 **Li, X.,** Tsamis, E., Thakoor, K. A., Zemborain, Z., Moraes, C. G. D., & Hood, D. C. (2020). **Evaluating the transferability of deep learning models that distinguish glaucomatous from non-glaucomatous OCT circumpapillary disc scans.** Investigative Ophthalmology & Visual Science, 61(7), 4548–4548. [[abstract](https://iovs.arvojournals.org/article.aspx?articleid=2769404)]
+
+**Li, X.**, & Jin, H. fMRI Preprocessing with Containers: How to run C-PAC with Docker and Singularity. Brainhack Global, New York, November 2019. [[presentation slides](/assets/presentation/brainhack19.pdf)]
 
 Feng, Y., Chung, E., **Li, X.,** Cycowicz, Y. M., & He, X. (2019). **Deep Learning for Motor Imagery Classification based on EEG Data.** New York Scientific Data Summit 2019. [[poster](/assets/poster/NYSDS19_YF.pdf)]
 
