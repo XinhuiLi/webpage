@@ -7,7 +7,7 @@ I am an assistant research engineer at [Child Mind Institute](https://childmind.
 [[Google Scholar](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)] 
 [[GitHub](https://github.com/SucyLi)]
 [[Twitter](https://twitter.com/xin_hui_li)]
-[[CV](/assets/cv/XinhuiLi-CV_11-25-20.pdf)]
+[[CV](/assets/cv/XinhuiLi-CV_11-30-20.pdf)]
 
 # Software Development
 
