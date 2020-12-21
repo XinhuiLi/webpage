@@ -20,15 +20,15 @@ At the Computational Neuroimaging Lab of Child Mind Institute, I am developing t
 
 ### Cross-Pipeline Reproducibility
 
-As part of C-PAC development, we evaluated preprocessing methods across different packages, including [fMRIPrep](https://fmriprep.org/en/stable/) and [XCP](https://xcpengine.readthedocs.io/), and expanded C-PAC configuration options to enhance cross-pipeline reproducibility. Check out our [poster](/assets/poster/OHBM20_XL.pdf) at OHBM2020.
+As part of C-PAC development, we evaluated preprocessing methods across different pipelines, including [fMRIPrep](https://fmriprep.org/en/stable/), [XCP](https://xcpengine.readthedocs.io/) and [ABCD](https://github.com/DCAN-Labs/DCAN-HCP/tree/master), and expanded C-PAC configuration options to enhance cross-pipeline reproducibility. Check out our [poster](/assets/poster/OHBM20_XL.pdf) at OHBM2020.
 
 ### Monkey Brain Extraction/Tissue Segmention using U-Net
 
-Supervised by [Ting Xu](https://scholar.google.com/citations?hl=en&user=Ks7ywnAAAAAJ&view_op=list_works&sortby=pubdate) at Child Mind Institute, I am developing a deep learning model U-Net to segment tissues with macaque structure MRI data. Besides, I also contributed to the [PRIME-DE brain extraction](https://github.com/TingsterX/PRIME-DE/tree/master/BrainExtraction) project.
+Supervised by [Dr. Ting Xu](https://scholar.google.com/citations?hl=en&user=Ks7ywnAAAAAJ&view_op=list_works&sortby=pubdate) at Child Mind Institute, I am developing a deep learning model U-Net to segment tissues with macaque structure MRI data. Besides, I also contributed to the [PRIME-DE brain extraction](https://github.com/HumanBrainED/NHP-BrainExtraction) project.
 
 ### Connectivity-based Shared Response Model
 
-Supervised by Ting Xu, I am exploring shared response model for behavior and movie prediction using functional connectivity data.
+Supervised by Dr. Xu, I am exploring shared response model for behavior and movie prediction using functional connectivity data.
 
 ### Deep Learning in Visual Science
 
@@ -36,12 +36,12 @@ I worked as a research assistant at [the Hood Visual Science Lab](https://hoodvi
 
 ### Real-time EEG Classification
 
-Collaborating with [Xiaofu He](https://scholar.google.com/citations?hl=en&user=QJnxJFIAAAAJ&view_op=list_works&sortby=pubdate) at New York State Psychiatry Institute, we plan to develop a real-time EEG feedback system where participants can receive prompt feedback classified by neural networks while performing tasks during EEG recording. We have made progress on designing a deep learning model - [a cascade Convolutional Neural Network – Recurrent Neural Network (CNN-RNN)](/assets/poster/NYSDS19_YF.pdf). I built a [simulation system](https://github.com/SucyLi/Neural-Feedback-System) with my classmates, which can serve as the front end for this system.
+Collaborating with [Dr. Xiaofu He](https://scholar.google.com/citations?hl=en&user=QJnxJFIAAAAJ&view_op=list_works&sortby=pubdate) at New York State Psychiatry Institute, we plan to develop a real-time EEG feedback system where participants can receive prompt feedback classified by neural networks while performing tasks during EEG recording. We have made progress on designing a deep learning model - [a cascade Convolutional Neural Network – Recurrent Neural Network (CNN-RNN)](/assets/poster/NYSDS19_YF.pdf). I built a [simulation system](https://github.com/SucyLi/Neural-Feedback-System), which can serve as the front end for this system.
 
 
 # Publications
 
-Wang, X., Li, X., Cho, J. W., Russ, B., Rajamani, N., Omelchenko, A., Ai, L., Korchmaros, A., Garcia, P., Wang, Z., Kalin, N. H., Schroeder, C. E., Craddock, C., Fox, A. S., Evans, A., Messinger, A., Milham, M. P., & Xu, T. (2020). **U-Net Model for Brain Extraction on Non-human Primates.** NeuroImage. (under review) [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.17.385898v1)]
+Wang, X., **Li, X.,** Cho, J. W., Russ, B., Rajamani, N., Omelchenko, A., Ai, L., Korchmaros, A., Garcia, P., Wang, Z., Kalin, N. H., Schroeder, C. E., Craddock, C., Fox, A. S., Evans, A., Messinger, A., Milham, M. P., & Xu, T. (2020). **U-Net Model for Brain Extraction on Non-human Primates.** NeuroImage. (under review) [[preprint](https://www.biorxiv.org/content/10.1101/2020.11.17.385898v1)]
 
 Thakoor, K. A., **Li, X.,** Tsamis, E., Zemborain, Z. Z., Moraes, C. G. D., Sajda, P., & Hood, D. C. (2020). **Strategies to Improve Convolutional Neural Network Generalizability for Glaucoma Detection from OCT Scans.** Translational Vision Science and Technology. (under review)
 
@@ -62,7 +62,7 @@ Jin, H., Giavasis, S., **Li, X.,** Sólon, A., Ai, L., Franco, A. R., Ramirez, J
 
 **Li, X.,** Tsamis, E., Thakoor, K. A., Zemborain, Z., Moraes, C. G. D., & Hood, D. C. (2020). **Evaluating the transferability of deep learning models that distinguish glaucomatous from non-glaucomatous OCT circumpapillary disc scans.** Investigative Ophthalmology & Visual Science, 61(7), 4548–4548. [[abstract](https://iovs.arvojournals.org/article.aspx?articleid=2769404)]
 
-**Li, X.**, & Jin, H. fMRI Preprocessing with Containers: How to run C-PAC with Docker and Singularity. Brainhack Global, New York, November 2019. [[presentation slides](/assets/presentation/brainhack19.pdf)]
+**Li, X.**, & Jin, H. fMRI Preprocessing with Containers: How to run C-PAC with Docker and Singularity. Brainhack Global, New York, November 2019. [[oral presentation](/assets/presentation/brainhack19.pdf)]
 
 Feng, Y., Chung, E., **Li, X.,** Cycowicz, Y. M., & He, X. (2019). **Deep Learning for Motor Imagery Classification based on EEG Data.** New York Scientific Data Summit 2019. [[poster](/assets/poster/NYSDS19_YF.pdf)]
 
