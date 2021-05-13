@@ -4,7 +4,7 @@ layout: default
 
 I am currently an assistant research engineer at [Child Mind Institute](https://childmind.org/) with a background in biomedical engineering and computer science. I'll join Georgia Tech BioE-ECE program as a PhD student in Fall 2021. My research interests focus on multi-modal neuroimaging (fMRI/EEG), brain machine interaction and deep learning.
 
-[[CV](/assets/cv/XinhuiLi-CV_05-21.pdf)]
+[[CV](/assets/cv/XinhuiLi-CV-05-21.pdf)]
 [[Google Scholar](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)] 
 [[GitHub](https://github.com/SucyLi)]
 [[Twitter](https://twitter.com/xin_hui_li)]
