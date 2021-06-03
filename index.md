@@ -4,9 +4,9 @@ layout: default
 
 I am currently an assistant research engineer at [Child Mind Institute](https://childmind.org/) with a background in biomedical engineering and computer science. I'll join Georgia Tech BioE-ECE program as a PhD student in Fall 2021. My research interests focus on multi-modal neuroimaging (fMRI/EEG), brain machine interaction and deep learning.
 
-[[CV](/assets/cv/XinhuiLi-CV-05-21.pdf)]
+[[CV](/assets/cv/XinhuiLi-CV-06-21.pdf)]
 [[Google Scholar](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)] 
-[[GitHub](https://github.com/SucyLi)]
+[[GitHub](https://github.com/XinhuiLi)]
 [[Twitter](https://twitter.com/xin_hui_li)]
 
 # Software Development
@@ -20,15 +20,15 @@ At the Computational Neuroimaging Lab of Child Mind Institute, I am developing t
 
 ### Cross-Pipeline Reproducibility
 
-As part of C-PAC development, we evaluated preprocessing methods across different pipelines, including [fMRIPrep](https://fmriprep.org/en/stable/), [XCP](https://xcpengine.readthedocs.io/), [ABCD](https://github.com/DCAN-Labs/DCAN-HCP/tree/master) and [CCS](https://github.com/zuoxinian/CCS), and expanded C-PAC configuration options to enhance cross-pipeline reproducibility. Check out our [poster](/assets/poster/OHBM20_XL.pdf) at OHBM2020.
+As part of C-PAC development, we evaluated preprocessing methods across different pipelines, including [fMRIPrep](https://fmriprep.org/en/stable/), [XCP](https://xcpengine.readthedocs.io/), [ABCD](https://github.com/DCAN-Labs/DCAN-HCP/tree/master) and [CCS](https://github.com/zuoxinian/CCS), and expanded C-PAC configuration options to enhance cross-pipeline reproducibility. Check out our [poster](/assets/poster/OHBM20_XL.pdf) at OHBM 2020 for fMRIPrep harmonization efforts. We have a cool paper in preparation, stay tuned! 
 
 ### NHP U-Net Brain Extraction/Tissue Segmention
 
-I am developing a deep learning model U-Net to segment tissues using non-human primate (NHP) MRI data supervised by [Dr. Ting Xu](https://scholar.google.com/citations?hl=en&user=Ks7ywnAAAAAJ&view_op=list_works&sortby=pubdate) at Child Mind Institute. I also contributed to the [NHP U-Net brain extraction](https://github.com/HumanBrainED/NHP-BrainExtraction) project.
+I am developing a deep learning model U-Net to segment tissues using non-human primate (NHP) MRI data supervised by [Dr. Ting Xu](https://scholar.google.com/citations?hl=en&user=Ks7ywnAAAAAJ&view_op=list_works&sortby=pubdate) at Child Mind Institute. Take a look at our [[poster](/assets/poster/NIBS21_XL.pdf)] at NIBS 2021 for preliminary result. I also contributed to the [NHP U-Net brain extraction](https://github.com/HumanBrainED/NHP-BrainExtraction) project.
 
 ### Deep Learning in Visual Science
 
-From 2018 to 2019, I worked as a research assistant at [the Hood Visual Science Lab](https://hoodvisualscience.psychology.columbia.edu/) of Columbia University, where I applied deep learning models to detect glaucoma and achieved decent performance. Furthermore, we proposed multiple strategies to enhance model generalizability across different datasets and evaluated the impacts of reference standards. In addition, we designed a MATLAB-based deep learning toolbox [Ollie](https://github.com/SucyLi/Ollie) to identify glaucoma, which won the first prize at COLUMBIA HACKATHON 2019.
+From 2018 to 2019, I worked as a research assistant at [the Hood Visual Science Lab](https://hoodvisualscience.psychology.columbia.edu/) of Columbia University, where I applied deep learning models to detect glaucoma and achieved decent performance. We proposed multiple strategies to enhance model generalizability across different datasets and evaluated the impact of reference standards. In addition, we designed a MATLAB-based deep learning toolbox [Ollie](https://github.com/XinhuiLi/Ollie) to identify glaucoma, which won the first prize at Columbia Hackathon 2019.
 
 # Publications
 
@@ -40,6 +40,8 @@ Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. (2019). **Enhan
 
 
 # Conference Posters
+
+**Li, X.,** Wang, X., Mantell, K., Casillo, E. C., Milham, M. P., Opitz, A., & Xu, T. (2021) Toward Automatic Segmentation for Non-human Primates. 2nd International Workshop on Non-invasive Brain Stimulation (NIBS). [[poster](/assets/poster/NIBS21_XL.pdf)]
 
 Shirinpour, S., Mantell, K., **Li, X.,** Puonti, O., Madsen, K., Haigh, Z., Casillo, E. C., Alekseichuk, I., Hendrickson, T., Xu, T., Thielscher, A., & Opitz, A. (2021). **Extending SimNIBS to integrate non-invasive brain stimulation with functional imaging data and primate head segmentation.** The BRAIN Initiative Investigators Meeting. [[poster](/assets/poster/BRAIN21_SS.pdf)]
 
