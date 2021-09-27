@@ -11,6 +11,21 @@ I am a first-year Ph.D. student in the School of Electrical and Computer Enginee
 [[GitHub](https://github.com/XinhuiLi)]
 [[Twitter](https://twitter.com/xin_hui_li)]
 
+---
+social:
+- display:
+    header: true
+- icon: Twitter
+  icon_pack: fab
+  link: https://twitter.com/xin_hui_li
+- icon: github
+  icon_pack: fab
+  link: https://github.com/XinhuiLi
+- icon: linkedin
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en
+---
+
 # Software Development
 
 ### C-PAC
