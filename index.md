@@ -6,12 +6,11 @@ layout: default
 
 I am a first-year Ph.D. student in the School of Electrical and Computer Engineering/Bioengineering at the Georgia Institute of Technology, advised by Dr. [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). My research interests focus on multi-modal neuroimaging, deep learning and brain-computer interface. I hope to improve the interpretability and generalizability of deep learning algorithms for clinical applications and better understand mental disorders.
 
-<img src="/assets/img/icons8-resume.png" alt="CV" width="20"/> [CV](/assets/cv/XinhuiLi-CV-09-21.pdf)
-
-<!-- ![Scholar](/assets/img/icons8-google-scholar.png =20x) [Google Scholar](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)
-![GitHub](/assets/img/icons8-github.png =20x) [GitHub](https://github.com/XinhuiLi)
-![Twitter](/assets/img/icons8-twitter.png =20x) [Twitter](https://twitter.com/xin_hui_li)
-![LinkedIn](/assets/img/icons8-linkedin.png =20x) [LinkedIn](https://www.linkedin.com/in/xinhui-li/) -->
+[[CV](/assets/cv/XinhuiLi-CV-09-21.pdf)] 
+[[Google Scholar](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)] 
+[[GitHub](https://github.com/XinhuiLi)] 
+[[Twitter](https://twitter.com/xin_hui_li)] 
+[[LinkedIn](https://www.linkedin.com/in/xinhui-li/)]
 
 # Software Development
 
