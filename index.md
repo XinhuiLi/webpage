@@ -4,13 +4,13 @@ layout: default
 
 # About Me
 
-I am a first-year Ph.D. student in the School of Electrical and Computer Engineering/Bioengineering at the Georgia Institute of Technology, advised by Dr. [Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). My research interests focus on multi-modal neuroimaging, deep learning and brain-computer interface. I hope to improve the interpretability and generalizability of deep learning algorithms for clinical applications and better understand mental disorders.
+I am a first-year Ph.D. student in the School of Bioengineering/Electrical and Computer Engineering at the Georgia Institute of Technology, advised by [Dr. Vince D. Calhoun](https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en). My research interests focus on multi-modal neuroimaging, deep learning and brain-computer interface. I hope to improve the interpretability and generalizability of deep learning algorithms for clinical applications and better understand mental disorders.
 
-[<img src="/assets/img/icons8-resume.png" alt="cv" width="25"/>](/assets/cv/XinhuiLi-CV-09-21.pdf)
-[<img src="/assets/img/icons8-google-scholar.png" alt="scholar" width="25"/>](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)
-[<img src="/assets/img/icons8-github.png" alt="github" width="25"/>](https://github.com/XinhuiLi)
-[<img src="/assets/img/icons8-twitter.png" alt="twitter" width="25"/>](https://twitter.com/xin_hui_li)
-[<img src="/assets/img/icons8-linkedin.png" alt="linkedin" width="25"/>](https://www.linkedin.com/in/xinhui-li/)
+[<img src="/assets/img/icons8-resume.png" alt="cv" width="30"/>](/assets/cv/XinhuiLi-CV-09-21.pdf)
+[<img src="/assets/img/icons8-google-scholar.png" alt="scholar" width="30"/>](https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en)
+[<img src="/assets/img/icons8-github.png" alt="github" width="30"/>](https://github.com/XinhuiLi)
+[<img src="/assets/img/icons8-twitter.png" alt="twitter" width="30"/>](https://twitter.com/xin_hui_li)
+[<img src="/assets/img/icons8-linkedin.png" alt="linkedin" width="30"/>](https://www.linkedin.com/in/xinhui-li/)
 
 # Software Development
 
@@ -27,7 +27,7 @@ As part of C-PAC development, we evaluated preprocessing methods across differen
 
 ### NHP U-Net Tissue Segmention/Brain Extraction
 
-I am developing a deep learning model U-Net to segment tissues for non-human primate (NHP) MRI data. Take a look at our [NIBS 2021 poster](/assets/poster/NIBS21_XL.pdf). I also contributed to the [NHP U-Net brain extraction](https://github.com/HumanBrainED/NHP-BrainExtraction) project ([Wang et al., 2021](https://www.sciencedirect.com/science/article/pii/S1053811921002780)).
+I am developing a deep learning model U-Net to segment tissues for non-human primate (NHP) MRI data. Take a look at our [NIBS 2021 poster](/assets/poster/NIBS21_XL.pdf) for preliminary results. I also contributed to the [NHP U-Net brain extraction](https://github.com/HumanBrainED/NHP-BrainExtraction) project ([Wang et al., 2021](https://www.sciencedirect.com/science/article/pii/S1053811921002780)).
 
 ### Deep Learning for Visual Science
 
@@ -42,7 +42,7 @@ Thakoor, K. A., **Li, X.,** Tsamis, E., Zemborain, Z. Z., Moraes, C. G. D., Sajd
 Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. (2019). **Enhancing the Accuracy of Glaucoma Detection from OCT Probability Maps using Convolutional Neural Networks.** 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2036–2040. https://doi.org/10.1109/EMBC.2019.8856899 [[paper](https://doi.org/10.1109/EMBC.2019.8856899)]
 
 
-# Selected Presentation/Posters
+# Selected Posters/Presentation
 
 **Li, X.,** Ai, L., Giavasis, S., Jin, H., Franco, A. R., Feczko, E., Vogelstein, J. T., Craddock, R. C., Xu, T., Esteban, O., Poldrack, R. A., Fair, D., Satterthwaite, T., Milham, M. P. (2021). **Putting Pipeline Implementation-related Variation into Perspective for Functional Connectomics.** 2021 Organization for Human Brain Mapping 2021 Annual Meeting. [[poster](/assets/poster/OHBM21_XL.pdf)]
 
