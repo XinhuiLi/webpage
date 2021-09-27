@@ -3,3 +3,24 @@ logo: /assets/img/logo.png
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Site Author
+author:
+  name             : "Xinhui Li"
+  avatar           : "/assets/img/logo.png"
+  bio              : ""
+  location         : "Atlanta, GA"
+  email            : #xli993@gatech.edu
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://twitter.com/xin_hui_li
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/XinhuiLi
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: https://www.linkedin.com/in/xinhui-li/
